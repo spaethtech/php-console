@@ -1,0 +1,30 @@
+{
+    "name": "spaethtech/console",
+    "description": "A customized Symfony Console subsystem.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ryan Spaeth",
+            "email": "rspaeth@spaethtech.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "SpaethTech\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "spaethtech/common": "^1"
+    },
+    "require-dev": {
+        "symfony/console": "^v5.4",
+        "spaethtech/composer": "^1"
+    },
+    "config": {
+        "allow-plugins": {
+            "spaethtech/composer": true
+        }
+    }
+}
