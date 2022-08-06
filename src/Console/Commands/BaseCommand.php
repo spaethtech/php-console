@@ -1,7 +1,7 @@
 <?php /** @noinspection PhpUnused */
 declare(strict_types=1);
 
-namespace SpaethTech\Commands;
+namespace SpaethTech\Console\Commands;
 
 use ReflectionClass;
 use ReflectionException;
