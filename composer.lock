@@ -114,16 +114,16 @@
         },
         {
             "name": "spaethtech/composer",
-            "version": "v1.0.2",
+            "version": "v1.0.3",
             "source": {
                 "type": "git",
                 "url": "https://github.com/spaethtech/composer.git",
-                "reference": "de932c58381c58e72a3cb3c13b6b320d49b7833d"
+                "reference": "d8b50567acea970a84084bd8f7a02352a6ead005"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/spaethtech/composer/zipball/de932c58381c58e72a3cb3c13b6b320d49b7833d",
-                "reference": "de932c58381c58e72a3cb3c13b6b320d49b7833d",
+                "url": "https://api.github.com/repos/spaethtech/composer/zipball/d8b50567acea970a84084bd8f7a02352a6ead005",
+                "reference": "d8b50567acea970a84084bd8f7a02352a6ead005",
                 "shasum": ""
             },
             "require": {
@@ -156,9 +156,9 @@
             "description": "A collection of Composer plugins and scripts.",
             "support": {
                 "issues": "https://github.com/spaethtech/composer/issues",
-                "source": "https://github.com/spaethtech/composer/tree/v1.0.2"
+                "source": "https://github.com/spaethtech/composer/tree/v1.0.3"
             },
-            "time": "2022-08-06T04:36:18+00:00"
+            "time": "2022-08-07T23:50:36+00:00"
         },
         {
             "name": "symfony/console",
