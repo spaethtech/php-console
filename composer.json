@@ -1,6 +1,6 @@
 {
     "name": "spaethtech/console",
-    "description": "A customized Symfony Console subsystem.",
+    "description": "A custom Symfony Console subsystem.",
     "type": "library",
     "license": "MIT",
     "authors": [
