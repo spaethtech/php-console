@@ -1,2 +1,4 @@
-/vendor/
-/ide/terminals/
+.idea/
+vendor/
+**/.env
+composer.lock
