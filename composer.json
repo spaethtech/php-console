@@ -1,5 +1,5 @@
 {
-    "name": "spaethtech/console",
+    "name": "spaethtech/php-console",
     "description": "A custom Symfony Console subsystem.",
     "type": "library",
     "license": "MIT",
