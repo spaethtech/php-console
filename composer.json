@@ -16,15 +16,7 @@
     },
     "require": {
         "php": ">=7.4",
-        "spaethtech/common": "^1"
-    },
-    "require-dev": {
-        "symfony/console": "^v5.4",
-        "spaethtech/composer": "^1"
-    },
-    "config": {
-        "allow-plugins": {
-            "spaethtech/composer": true
-        }
+        "symfony/console": "^5.4",
+        "spaethtech/php-support": "*"
     }
 }
